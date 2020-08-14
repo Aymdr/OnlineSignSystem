@@ -1,0 +1,69 @@
+.files-button {
+    width: 100px;
+    /*display: block;*/
+    /*margin: 20px auto;*/
+    margin-left: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.header1 {
+    height: 72px;
+    line-height: 72px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('../picture/top-bg.png');
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+.content-middle{
+    margin-top: 5px;
+    height: 80%;
+    /*background-repeat: no-repeat;*/
+    background-position: center;
+    background-image: url('../picture/big-bg.jpg');
+}
+.container1{
+    margin-left: 20px;
+    /*margin-right: 20px;*/
+    opacity: 0.90;
+    z-index: 1;
+}
+.header_h3{
+    text-align: center;
+    display: inline-block;
+    color: #fff;
+    font-size: 22px;
+}
+.header1 .container1 {
+    position: relative;
+}
+
+.return_btn{
+    margin-right: 40px;
+    color: #fff;
+    font-size: 16px;
+    float: right;
+}
+
+.footer3 {
+    margin: auto;
+    margin-top: 60px;
+    text-align: center;
+    height: 72px;
+    background: #141A1E;
+    width: 100%;
+    color: #999;
+    padding: 20px 0 20px 0;
+}
+#find-files{
+    border-radius: 10px;
+    outline: none;
+}
+
+.middle-table{
+    background-color: #ffffff;
+
+}
